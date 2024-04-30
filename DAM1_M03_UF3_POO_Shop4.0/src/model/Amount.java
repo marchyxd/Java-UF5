@@ -5,6 +5,12 @@ public class Amount {
  private double value;
  private String currency;
 
+ 
+ 
+ 
+ 
+ 
+ 
  public Amount(double value) {
      super();
 	 this.value = value;
