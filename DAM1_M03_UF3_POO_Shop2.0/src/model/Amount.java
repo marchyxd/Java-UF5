@@ -5,19 +5,11 @@ public class Amount {
  private double value;
  private String currency;
 
- 
  public Amount(double value) {
-     super();
-	 this.value = value;
+     this.value = value;
      this.currency = "€"; 
  }
-   
- 
- 
- 
- 
- 
- 
+
 
  public double getValue() {
      return value;
